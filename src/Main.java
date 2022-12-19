@@ -1,5 +1,15 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        // Exercitiul 9
+        // Afiseaza toate numerele pare mai mici de 100
+
+        int i = 1;
+        while (i <= 100) {
+            if (i % 2 == 0) {
+                System.out.println(i);
+            }
+            i++;
+        }
     }
 }
