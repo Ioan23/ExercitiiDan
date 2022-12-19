@@ -1,8 +1,10 @@
+import java.util.Arrays;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
-<<<<<<< Updated upstream
         System.out.println("Hello world!");
-=======
+
 
 
         // First exercise
@@ -23,6 +25,5 @@ public class Main {
         } else {
             System.out.println("The first divizible number with 7 from the list is: " + firstDivisible7nr);
         }
->>>>>>> Stashed changes
     }
 }
